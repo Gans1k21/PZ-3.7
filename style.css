@@ -1,0 +1,33 @@
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+p {
+  margin-bottom: 1em;
+}
+
+.paragraph-1 {
+  color: blue;
+}
+
+.paragraph-2 {
+  color: green;
+}
+
+.paragraph-3 {
+  color: red;
+}
+
+.list {
+  background-color: black;
+  padding: 1em;
+  margin-bottom: 1em;
+}
+
+.list-item {
+  color: white;
+}
